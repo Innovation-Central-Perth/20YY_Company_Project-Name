@@ -1,4 +1,4 @@
-# 2022_ICP_Project-Name
+# 20YY_Company_Project-Name
 Read Me! Example Repository :)
 
 Follow this naming convention when starting a new repo. Ex. "2022_ICP_Example-Project"
